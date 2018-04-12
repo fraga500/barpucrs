@@ -1,11 +1,5 @@
 package uinterface;
 
-import java.io.BufferedWriter;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.Scanner;
 import persistence.Cliente;
 import business.RepositorioClientes;
