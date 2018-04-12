@@ -1,4 +1,4 @@
-package pacote;
+package persistence;
 
 public class Cliente
 {
